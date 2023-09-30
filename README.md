@@ -10,6 +10,5 @@
 
         3.We have also created aInsight page which helps to understand where it lacks and where Netflix is strong among customers
 
-        PBIX file link:https://drive.google.com/file/d/1SfZ8MVvnQhv3OmBFeYvW00wBjF3OmopW/view?usp=sharing
-
-        file link https://drive.google.com/file/d/11DIdtZ3TanpoX8yzmHGJbtSq2DrVqWec/view?usp=sharing
+ PBIX file link:https://drive.google.com/file/d/1SfZ8MVvnQhv3OmBFeYvW00wBjF3OmopW/view?usp=sharing
+ file link https://drive.google.com/file/d/11DIdtZ3TanpoX8yzmHGJbtSq2DrVqWec/view?usp=sharing
